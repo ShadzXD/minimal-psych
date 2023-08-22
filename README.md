@@ -1,1 +1,1 @@
-Removes a bunch of base game shit for people that are making hardcoded mods
+Removes all of basegame stuff except week 1 and its stage
